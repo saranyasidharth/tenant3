@@ -235,7 +235,7 @@ if(!$_SESSION['username']){
       <footer class="sticky-footer bg-white">
         <div class="container my-auto">
           <div class="copyright text-center my-auto">
-            <span>Copyright     jj&copy; TENANT 2021</span>
+            <span>Copyright &copy; TENANT 2021</span>
           </div>
         </div>
       </footer>
